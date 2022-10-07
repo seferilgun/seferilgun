@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋 ben Carlos</h1>
-<h3 align="center">Türkiye'de profesyonel bir web ve android geliştiricisi.</h3>
+<h3 align="center">Türkiye'de profesyonel bir web ve android uygulama geliştiricisi.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seferilgun&label=Profile%20views&color=0e75b6&style=flat" alt="seferilgun" /> </p>
 
