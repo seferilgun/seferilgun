@@ -1,25 +1,9 @@
-<h1 align="center">Merhaba 👋 ben Carlos</h1>
-<h3 align="center">Türkiye'de profesyonel bir web ve android uygulama geliştiricisi.</h3>
+<h1 align="center">Hi 👋 admin</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seferilgun&label=Profile%20views&color=0e75b6&style=flat" alt="seferilgun" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seferilgun" alt="seferilgun" /></a> </p>
 
-- 🔭 Şu anda bir chat arayüzü üzerinde çalışılıyor [SefChat](https://seferilgun.com/)
-
-- 🌱 Şu anda öğrendiğim **Python**
-
-- 👯 İşbirliği yapılabilir [İletişim](https://seferilgun.com/)
-
-- 🤝 Birlik arıyorum [https://seferilgun.com/](https://seferilgun.com/)
-
-- 👨‍💻 Tüm projelerim şu adreste mevcuttur: [https://seferilgun.com/](https://seferilgun.com/)
-
-- 📝 Düzenli olarak şu konularda makaleler yazıyorum: [https://seferilgun.com/blog](https://seferilgun.com/blog)
-
-- 📫 Bana nasıl ulaşırsın **kisisel@seferilgun.com // ilgunsefer70@gmail.com**
-
-- 📄 Deneyimlerimden haberdar olun [https://seferilgun.com/](https://seferilgun.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
