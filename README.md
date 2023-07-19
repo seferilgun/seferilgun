@@ -7,7 +7,7 @@
 
 ![My Languages](https://skillicons.dev/icons?i=php,py,lua,nodejs,js,html,css,c,cpp,cs,net,)
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/891822266701213797)](https://discord.com/users/891822266701213797)
 
 
 <div align="left">
