@@ -2,11 +2,7 @@
 
 - 💻 Currently Learning C.
 
-  <details>
-<summary>Information</summary>
-<br>
-Im probably smarter than you. <33
-</details>
+
 
 ![My Languages](https://skillicons.dev/icons?i=php,py,lua,nodejs,js,html,css,c,cpp,cs,net,)
 
@@ -17,6 +13,10 @@ Im probably smarter than you. <33
 </div>
 
 
-
+<details>
+<summary>Information</summary>
+<br>
+Im probably smarter than you. <33
+</details>
 <!---
 --->
