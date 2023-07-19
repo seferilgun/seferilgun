@@ -1,11 +1,11 @@
-- Zycs, 17 y/o Scripter from Greece.
+- Carlos, 19 y/o Scripter from Turkey.
 
 - 💻 Currently Learning C.
 
-- :mailbox: Discord: @zycs.
+- :mailbox: Discord: @carlos.1
 
 
-![My Languages](https://skillicons.dev/icons?i=py,lua,nodejs,js,html,css,c,cpp,cs,net,)
+![My Languages](https://skillicons.dev/icons?i=php,py,lua,nodejs,js,html,css,c,cpp,cs,net,)
 
 
 
