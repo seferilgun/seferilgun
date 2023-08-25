@@ -4,7 +4,7 @@
 
 
 
-![My Languages](https://skillicons.dev/icons?i=php,py,lua,nodejs,js,html,css,c,cpp,cs,net,)
+![My Languages](https://skillicons.dev/icons?i=php,py,lua,nodejs,js,html,css,c,cpp,cs,net,mysql)
 
 [<img alt="" src=https://lanyard.cnrad.dev/api/891822266701213797/>](https://lanyard-visualizer.netlify.app/user/891822266701213797)
 
