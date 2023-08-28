@@ -7,7 +7,7 @@
 ![My Languages](https://skillicons.dev/icons?i=php,py,lua,nodejs,js,html,css,c,cpp,cs,net,mysql)
 
 [<img alt="" src=https://lanyard.cnrad.dev/api/891822266701213797/>](https://lanyard-visualizer.netlify.app/user/891822266701213797)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qgbw9tmglmdrl6yhktnx1x2bz&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=qgbw9tmglmdrl6yhktnx1x2bz&redirect=true)
 <div align="left">
   <img src="https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif" width="489" height="436"/>
 </div>
