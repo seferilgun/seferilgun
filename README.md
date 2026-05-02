@@ -8,11 +8,8 @@
 
 [<img alt="" src=https://lanyard.cnrad.dev/api/891822266701213797/>](https://lanyard-visualizer.netlify.app/user/891822266701213797)
 
-<h3 align="left">🎶Spotify:</h3>
 
-<div align="left">
-  <img src="https://media.giphy.com/media/YFkpsHWCsNUUo/giphy.gif" width="489" height="436"/>
-</div>
+
 
 
 <details>
